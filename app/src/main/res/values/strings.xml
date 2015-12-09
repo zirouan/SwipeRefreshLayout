@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwipeRefreshLayout</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="triadworks">TriadWorks</string>
+    <string name="swipe_is_running">SwipeRefreshLayout está em execução</string>
+</resources>
